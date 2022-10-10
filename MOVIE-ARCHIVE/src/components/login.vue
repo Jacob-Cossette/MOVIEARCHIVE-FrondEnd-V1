@@ -21,7 +21,6 @@
 </template>
 
 <script>
-import { Button } from 'ant-design-vue';
 import { defineComponent, reactive, ref } from 'vue';
 export default defineComponent({
   setup() {

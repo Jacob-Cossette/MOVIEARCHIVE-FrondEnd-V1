@@ -1,5 +1,5 @@
 
-
+@import '~antd/dist/antd.css';
 <template>
   <a-form
     name="custom-validation"

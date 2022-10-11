@@ -1,23 +1,23 @@
 <template>
   <v-app>
     <v-main>
-      <HelloWorld/>
+      <login/>
     </v-main>
   </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import login from './components/login.vue'
 
 export default {
   name: 'App',
 
   components: {
-    HelloWorld,
+    login,
   },
 
   data: () => ({
-    //
+    // push notif
   }),
 }
 </script>
